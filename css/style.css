@@ -149,4 +149,12 @@ img {
     section .container .row .col {
         width: 100%;
     }
+    section.steps {
+        margin-bottom: 0;
+    }
+    section.why-us {
+        background-color: black;
+        padding-top: 3em;
+    }
+
  }
